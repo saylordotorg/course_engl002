@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Putting Your Source Material to Work** <span id="4"></span> 
 *Many college research papers are structured primarily as arguments that
 are supported, at least in part, by evidence gathered from outside

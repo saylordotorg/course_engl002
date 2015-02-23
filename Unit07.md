@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “ENGL002 Final Exam”**
     Link: The Saylor Foundation’s [“ENGL002 Final

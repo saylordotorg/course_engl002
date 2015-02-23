@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Research and the Writing Process** <span id="1"></span> 
 *Researching and reporting the results of research are fundamental to
 academic work in almost every discipline, as well as in many

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Writing the Research Paper and Acknowledging Your Sources**
 <span id="5"></span> 
 *When you write a research paper, the success of your work can depend

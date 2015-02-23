@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Polishing Your Research Paper** <span id="6"></span> 
 *Now that you have completed the draft of your research paper, you will
 revise and polish it. Keep in mind that writing is a process from the

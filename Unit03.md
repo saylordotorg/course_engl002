@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL002: English Composition II"
+course_description: "An introductory course on basic research concepts and techniques, including ways to build academic research into effective writing processes."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Reviewing and Analyzing Your Sources** <span id="3"></span> 
 *A successful research paper is more than a well-constructed argument
 supplemented by facts, figures, and quotations. Like the good writing
